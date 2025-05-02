@@ -56,12 +56,11 @@ Located in [`scripts/`](scripts/), e.g.:
 
 ### `screenshots/screenshot_1.png`
 
-> **Description**: Falkon browser running inside the Alpine LXC container, successfully displaying the pfSense login page. The image shows that basic rendering and network reachability are functioning. IP addresses have been blurred for privacy.
+> **Description**: Falkon browser running inside the Alpine LXC container, successfully displaying the pfSense login page. The image shows that basic rendering and network reachability are functioning.
 
 ### `screenshots/screenshot_2.png`
 
-> **Description**: pfSense dashboard interface accessed through Falkon inside the Alpine container. This confirms full GUI functionality and the ability to manage pfSense remotely via a lightweight browser setup. IPs have been blurred.
-
+> **Description**: pfSense dashboard interface accessed through Falkon inside the Alpine container. This confirms full GUI functionality and the ability to manage pfSense remotely via a lightweight browser setup.
 ---
 
 ## 🚀 Quick Start (from within container)
