@@ -54,7 +54,7 @@ Located in [`scripts/`](scripts/), e.g.:
 
 ## 🖼️ Screenshots
 
-### `screenshots/screenshot_1.png`
+### [`screenshots/screenshot_1.png`](screenshots/screenshot_1.png)
 
 > **Description**: Falkon browser running inside the Alpine LXC container, successfully displaying the pfSense login page. The image shows that basic rendering and network reachability are functioning.
 
